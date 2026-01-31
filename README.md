@@ -1,4 +1,5 @@
 # Personal Portfolio Website
+- live link - https://omsmlportfolio.netlify.app/
 
 ## Project Overview
 This project involves the design and development of a professional personal portfolio website that showcases projects, technical skills, and contact information in a structured and engaging manner. The website is fully responsive and includes interactive elements to enhance user experience across multiple devices.
