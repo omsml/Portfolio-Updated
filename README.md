@@ -66,27 +66,27 @@ The project meets the following evaluation standards:
 
 ---
 
-##Challenges Faced
+## Challenges Faced
 Ensuring full responsiveness across different screen sizes
 Implementing JavaScript-based form validation
 Maintaining clean and readable code structure
 
 ---
 
-##Future Enhancements
+## Future Enhancements
 Backend integration for contact form submission
 Performance optimization and SEO improvements
 Enhanced animations and accessibility features
 
 ---
 
-##Submission Details
+## Submission Details
 Project uploaded to GitHub
 Complete source code and documentation provided
 Repository link shared for evaluation
 
 ---
 
-##Author
+## Author
 Omm Prakash Samal
 Full Stack Java Developer
