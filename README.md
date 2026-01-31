@@ -44,16 +44,6 @@ The objective of this project is to build a modern and professional portfolio we
 ## Implementation Summary
 The website was developed using standard frontend technologies. Responsive design principles such as flexible layouts and media queries were applied to ensure compatibility across devices. JavaScript was utilized to implement interactive components and validate contact form inputs for accurate data submission.
 
----
-
-## Project Structure
-portfolio/
-│── index.html
-│── header.html
-│── style.css
-│── script.js
-│── README.md
-
 
 ---
 
